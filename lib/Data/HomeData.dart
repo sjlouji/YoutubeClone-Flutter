@@ -1,0 +1,86 @@
+
+import 'package:youtubeclone/Model/Video.dart';
+
+List<Video> homeVideo = [
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/xjDjIWPwcPU/maxresdefault.jpg",
+    timeAgo: '2 hrs',
+    chanel_image_url: "https://s.inyourpocket.com/img/figure/2018-06/home_slide_cetate_deva.jpg",
+    chanel_name: "Marvel Pictures",
+    videoTitle: "Black Panther Trialer",
+    viewCount: "5M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/tB1clq0VNWE/maxresdefault.jpg",
+    timeAgo: '8 hrs',
+    chanel_image_url: "https://wikibio.in/wp-content/uploads/2019/11/Prabhu-Deva.jpg",
+    chanel_name: "Son TV",
+    videoTitle: "Bhahubai 2, Watch Full movie",
+    viewCount: "3M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/TcMBFSGVi1c/hqdefault.jpg",
+    timeAgo: '2 days',
+    chanel_image_url: "https://img.etimg.com/thumb/msid-68721417,width-1200,height-900,imgsize-1016106,overlay-etpanache/photo.jpg",
+    chanel_name: "Stark Studios",
+    videoTitle: "Avengers Endgame official Teaser",
+    viewCount: "39M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/kg4vwis9XH8/maxresdefault.jpg",
+    timeAgo: '5 days',
+    chanel_image_url: "https://www.sweetwater.com/insync/media/2019/09/54b6fc22-mg_5846.jpg",
+    chanel_name: "Find me Studio",
+    videoTitle: "Black Widow versus title music",
+    viewCount: "4M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/7SlILk2WMTI/maxresdefault.jpg",
+    timeAgo: '1 week',
+    chanel_image_url: "https://cdn.thenationroar.com/wp-content/uploads/2020/04/blackpanther.jpg.1440x1000_q85_box-023640468_crop_detail.jpg",
+    chanel_name: "Capain TV",
+    videoTitle: "The Winter Soldier",
+    viewCount: "23M",
+  ),
+  Video(
+    thmupNail: "https://c.dvdfab.cn/upload/resource/youtube-tamil-movies-4.jpeg",
+    timeAgo: '2 week',
+    chanel_image_url: "https://morse.yalecollege.yale.edu/sites/default/files/resize/images/CURS_2018_photo-600x450.JPG",
+    chanel_name: "Space Nigths",
+    videoTitle: "Fighting Astronaut",
+    viewCount: "6M",
+  ),
+  Video(
+    thmupNail: "https://i.pinimg.com/originals/fa/cb/55/facb55affc9301d42355753633501ce0.jpg",
+    timeAgo: '1 year',
+    chanel_image_url: "https://i.ytimg.com/vi/nBq89b9ZRQw/maxresdefault.jpg",
+    chanel_name: "DC Studios",
+    videoTitle: "A Nightmare on ELM Streen",
+    viewCount: "99k",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/Aj7ty6sViiU/maxresdefault.jpg",
+    timeAgo: '1 year',
+    chanel_image_url: "https://wikibio.in/wp-content/uploads/2019/11/Prabhu-Deva.jpg",
+    chanel_name: "Forest Area",
+    videoTitle: "The Legend of Tarzan",
+    viewCount: "4.43M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/sEDctELIm3I/maxresdefault.jpg",
+    timeAgo: '2 months',
+    chanel_image_url: "https://i.insider.com/5b52400e51dfbe20008b45f9?width=750&format=jpeg&auto=webp",
+    chanel_name: "Black widow",
+    videoTitle: "Black widow Studios",
+    viewCount: "3M",
+  ),
+  Video(
+    thmupNail: "https://i.ytimg.com/vi/VwsnlsZX6xc/maxresdefault.jpg",
+    timeAgo: '4 decade',
+    chanel_image_url: "https://img.etimg.com/thumb/msid-68721417,width-1200,height-900,imgsize-1016106,overlay-etpanache/photo.jpg",
+    chanel_name: "Hate me",
+    videoTitle: "Find me if you can",
+    viewCount: "23K",
+  ),
+
+];
