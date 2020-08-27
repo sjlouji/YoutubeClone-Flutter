@@ -1,6 +1,6 @@
 # Flutter Youtube Clone. 
 
-Flutter Whatsapp Clone. 
+Flutter Youtube Clone. 
 This is a simple flutter application where I have clonned Youtube UI.
 Created by [Joan Louji](https://joanlouji.web.app/)
 
